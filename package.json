@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio-Myron-Ladyjenko",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:myronladyjenko/Portfolio-Myron-Ladyjenko.git",
+  "author": "Myron Ladyjenko <mladyjen@uoguelph.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^12.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
