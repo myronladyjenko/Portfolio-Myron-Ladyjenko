@@ -1,4 +1,4 @@
 node_modules
 firebase.json
 .firebase
-.firebase.rc
+.firebaserc
